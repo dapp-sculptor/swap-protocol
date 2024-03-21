@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.11.1",
+    "web3": "^4.6.0"
+  },
+  "scripts": {
+    "dev": "node index.js"
+  }
+}
